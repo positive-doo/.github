@@ -52,10 +52,4 @@ We aim to empower businesses of all sizes to leverage AI effectively.
 📸 **Instagram:** [positive_rs](https://instagram.com/positive_rs)  
 🎥 **TikTok:** [Positive.rs](https://www.tiktok.com/@positive.rs)  
 
----
-
-## Join Us
-
-We believe in the power of community and open collaboration. If you'd like to contribute to our projects, check out our [CONTRIBUTING.md](link-to-contributing-guide) for guidelines.
-
 Thank you for visiting Positive on GitHub! Together, we can redefine the future of business with innovative AI solutions. 🚀
